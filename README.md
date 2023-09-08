@@ -33,6 +33,8 @@ Vamos explorando o ruby, lógica de programação, um pouco de estruturação e 
  ruby ./game/app.rb
 ```
 
+*Utilize as setas ou (i, j, k, l) para movimentar as raquetes
+
 ## Youtube
 
 [Youtube link](https://youtu.be/mYVJNdng-zw)
